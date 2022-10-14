@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.header {
+    display: flex;
+    float: right;
+    text-decoration: none;
+    list-style: none;
+}
+li{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+.footer{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    float: right;
+}
