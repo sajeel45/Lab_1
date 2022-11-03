@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    
+}
+.container{
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    justify-content: center;
+    margin: 1px solid black;
+}
+.header{
+    display: block;
+    background-color: #1dce4f;
+    height: 920px;
+    
+}
+.navbar li{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    float: left;
+    width: 20%;
+    margin-left: 0px;
+}
+#visited:hover{
+    color: black;
+}
+.navbar ul li:hover{
+    background-color:#89e4a2;
+}
+li:hover{
+    color: black;
+}
+.navbar ul{
+    list-style: none;
+}
+#image img{
+    width: 100%;
+    height: 850px
+}
+.navbar ul li a{
+    text-decoration: none;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:#89e4a2;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.list_items ul {
+    list-style: none;
+    margin-left: 0;
+}
+.vertical-navbar{
+    width: 33%;
+    float: left;
+    margin-right: 10px;
+    margin-left: 0px;
+    background-color: #89e4a2;
+}
+.vertical-navbar li{
+    margin-left: 0px;
+}
+.list_items li:hover{
+    background-color:#1dce4f;
+}
+.list_items li{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    background-color:#89e4a2;
+    text-align: center;
+}
+.list_items ul{
+    margin-left: 0px;
+}
+.list_items ul li a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+#visit:hover{
+    color: white;
+}
+.paragraph{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
